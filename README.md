@@ -5,6 +5,6 @@ Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-estou no 3 ano do ensino médio
+estou no 3º ano do ensino médio
 
 
